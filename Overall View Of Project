@@ -1,0 +1,14 @@
+class WordTree ->
+
+    1.  addEntry()
+    2.  addNewNode()
+    3.  findEntry()
+    4.  find()
+    5.  deleteEntry()
+    6.  delete()
+    7.  displayTree()
+    8.  display()
+    9.  saveTree()
+    10. save()
+    11. saveToFile()
+    12. loadTree()
